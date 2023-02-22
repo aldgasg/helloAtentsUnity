@@ -1,0 +1,18 @@
+githhub 저장생성 -> 깃허브 홈페이지
+github 저장소 ㅋㄹ론 ->소스트리
+Commit 커밋하기
+Add(스테이지에 올리기)
+Push하기
+
+git이란?	: Version Cotrol System(버전관리시스템)
+Add	: 스테이지에 올린다.
+Push	: 업로드
+Commit	: 저장을 원하는 파일을 묶어서 커밋(save) 
+
+https://github.com/aldgasg/helloAtentsUnity.git
+
+
+
+
+
+
